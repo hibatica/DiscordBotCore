@@ -1,0 +1,9 @@
+{
+  "prefix":"-",
+	"color": {
+    "info":"#6fecf8",
+    "success":"#74df63",
+    "warn":"#6fecf8",
+    "error":"#74df63"
+  }
+}

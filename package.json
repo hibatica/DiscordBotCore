@@ -1,0 +1,25 @@
+{
+  "name": "DiscordBotCore",
+  "version": "1.0.0",
+  "description": "A simple, scalable discord.js bot core. Just download and add your commands.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibatica/DiscordBotCore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hibatica/DiscordBotCore/issues"
+  },
+  "homepage": "https://github.com/hibatica/DiscordBotCore#readme"
+}
