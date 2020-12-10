@@ -7,10 +7,10 @@ module.exports = {
 		embed.setColor(client.config.color.error);
 		if(!text) {
 			embed.setDescription("An internal error ocurred");
-			return(message.channel.send(err));
+			return(message.channel.send(embed));
 		} else {
 			embed.setDescription(text);
-			return(message.channel.send(err));
+			return(message.channel.send(embed));
 		}
 	}
 }
